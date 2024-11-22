@@ -1,6 +1,10 @@
 # AI-Powered Profile Assistant
 This project demonstrates an AI-powered assistant using LangFlow and AstraDB to answer user questions based on profiles and other indexed data.
 
+![image](https://github.com/user-attachments/assets/7a2e1ff7-c428-45e8-89c3-dbed8cb00a6c)
+> Image of the Langflow architecture
+<br>
+
 ## Features
 - AI Agent with LangFlow: Built an AI agent using LangFlow to process and respond to user queries.
 - AstraDB Integration: Uses AstraDB for indexing and storing data (e.g., profile notes).
